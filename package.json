@@ -1,10 +1,10 @@
 {
-  "name": "v-video",
+  "name": "v-playback",
   "description": "A Vue2 plugin to make video play easier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "TerryZ <terry5@foxmail.com>",
   "license": "MIT",
-  "main": "dist/v-video.js",
+  "main": "dist/v-playback.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"

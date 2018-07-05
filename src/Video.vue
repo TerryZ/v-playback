@@ -14,7 +14,7 @@
     //import 'imports-loader?videojs=video.js!video.js/dist/lang/zh-CN';
     import 'video.js/dist/video-js.css';
     export default {
-        name: "v-video",
+        name: "v-playback",
         props: {
             url: {
                 type: String,

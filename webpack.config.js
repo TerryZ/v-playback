@@ -6,8 +6,8 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, './dist'),
     publicPath: 'dist/',
-    filename: 'v-video.js',
-	library: 'vRegion',
+    filename: 'v-playback.js',
+	library: 'vPlayBack',
 	libraryTarget: 'umd',
 	umdNamedDefine: true
   },
