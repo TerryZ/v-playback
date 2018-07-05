@@ -85,3 +85,7 @@ export default {
 };
 ```
 <br><br>
+
+## Dependent on
+
+[video.js](https://github.com/videojs/video.js)
