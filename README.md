@@ -68,15 +68,12 @@ Vue.use(vPlayBack);
 
 template
 
-```html
+```vue
 <template>
     <v-playback :url="url" ></v-playback>
 </template>
-```
 
-script
-
-```js
+<script>
 export default {
     data(){
         return {
@@ -84,6 +81,7 @@ export default {
         }
     }
 };
+</script>
 ```
 <br><br>
 
