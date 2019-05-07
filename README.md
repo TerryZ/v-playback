@@ -66,8 +66,6 @@ Vue.use(vPlayBack);
 
 ## Deploy on your component
 
-template
-
 ```vue
 <template>
     <v-playback :url="url" ></v-playback>
