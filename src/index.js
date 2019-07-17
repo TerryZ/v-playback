@@ -1,4 +1,4 @@
-import video from './Video';
+import video from './Playback';
 
 const Plugin = {
     install(Vue, options = {}){

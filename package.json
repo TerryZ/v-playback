@@ -1,7 +1,7 @@
 {
   "name": "v-playback",
   "description": "A Vue2 plugin to make video play easier",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "TerryZ <terry5@foxmail.com>",
   "license": "MIT",
   "main": "dist/v-playback.js",
@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "video.js": "^7.0.3",
-    "vue": "^2.5.11"
+    "vue": "^2.6.10"
   },
   "keywords": [
     "front-end",
@@ -40,7 +40,7 @@
     "node-sass": "^4.5.3",
     "sass-loader": "^6.0.6",
     "vue-loader": "^13.0.5",
-    "vue-template-compiler": "^2.4.4",
+    "vue-template-compiler": "^2.6.10",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.9.1"
   }
