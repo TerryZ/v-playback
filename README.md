@@ -68,20 +68,19 @@ Vue.use(vPlayBack);
 
 ```vue
 <template>
-    <v-playback :url="url" ></v-playback>
+  <v-playback :url="url" ></v-playback>
 </template>
 
 <script>
 export default {
-    data(){
-        return {
-            url: 'http://xxx.com/111.mp4'
-        }
+  data(){
+    return {
+      url: 'https://your-site/your-video.mp4'
     }
-};
+  }
+}
 </script>
 ```
-<br><br>
 
 ## Dependent on
 
