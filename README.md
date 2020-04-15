@@ -52,8 +52,8 @@ Explorer on
 
 ## Install
 
-``` bash
-npm install v-playback --save
+```
+npm i -S v-playback
 ```
 
 Include plugin in your `main.js` file.
