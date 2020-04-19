@@ -57,8 +57,8 @@ Include plugin in your `main.js` file.
 
 ```js
 import Vue from 'vue'
-import vPlayBack from 'v-playback';
-Vue.use(vPlayBack);
+import vPlayBack from 'v-playback'
+Vue.use(vPlayBack)
 ```
 
 ## Deploy on your component
