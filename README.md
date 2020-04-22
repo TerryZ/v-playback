@@ -68,7 +68,7 @@ Vue.use(PlayBack)
 
 <script>
 export default {
-  data(){
+  data () {
     return {
       url: 'https://your-site/your-video.mp4'
     }
