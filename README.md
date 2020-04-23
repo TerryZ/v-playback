@@ -59,7 +59,7 @@ import PlayBack from 'v-playback'
 Vue.use(PlayBack)
 ```
 
-## Deploy on your component
+## Deploy on your component/page
 
 ```vue
 <template>
