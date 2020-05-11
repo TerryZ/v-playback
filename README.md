@@ -61,7 +61,7 @@ export default {
 </script>
 ```
 
-## Dependent on
+## Dependencies
 
 [video.js](https://github.com/videojs/video.js)
 
